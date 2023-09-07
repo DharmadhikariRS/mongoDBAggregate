@@ -67,3 +67,21 @@ export const vaccineData=async()=>{
   const data=await covidVaccineStatewise.find();
   return data
 }
+export const vaccineWiseData=async()=>{
+  //vaccine status for covishield and covaxin counts
+  const data = await covidVaccineStatewise.aggregate([
+    {
+      $group: {
+        _id: '$State',
+        CoviShield: {
+          $sum: '$CoviShield (Doses Administered)'
+        },
+        Covaxin: {
+          $sum: '$ Covaxin (Doses Administered)'
+        }
+      }
+    },
+ 
+  ]);
+ return data;
+}
