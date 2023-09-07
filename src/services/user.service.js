@@ -61,3 +61,9 @@ export const stateWiseSample=async()=>{
   ]);
   return data;
 }
+export const vaccineData=async()=>{
+
+  //All states vaccine status
+  const data=await covidVaccineStatewise.find();
+  return data
+}

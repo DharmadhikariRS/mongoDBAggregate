@@ -74,5 +74,19 @@ export const stateWiseSample = async (req, res, next) => {
   }
 };
 
+export const vaccineData = async (req, res, next) => {
+  try {
+    const data = await UserService.vaccineData();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'Vaccine Data fetched'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
 
 
