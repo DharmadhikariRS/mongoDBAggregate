@@ -100,6 +100,19 @@ export const vaccineWiseData = async (req, res, next) => {
   }
 };
 
+export const StateAndGenderWise = async (req, res, next) => {
+  try {
+    const data = await UserService.StateAndGenderWise();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'Sate and gender wise Data fetched'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
 
 
 

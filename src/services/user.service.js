@@ -85,3 +85,21 @@ export const vaccineWiseData=async()=>{
   ]);
  return data;
 }
+export const StateAndGenderWise=async()=>{
+ //statewise males and females vaccination counts
+
+ const data = await covidVaccineStatewise.aggregate([
+  {
+    $group: {
+      _id: '$State',
+      MaleVaccinated: {
+        $sum: '$Male (Doses Administered)'
+      },
+      FemaleVaccinated: {
+        $sum: '$Female (Doses Administered)'
+      }
+    }
+  }
+]);
+return data;
+}

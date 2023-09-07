@@ -10,6 +10,7 @@ router.get('/stateWisePNCount',userController.stateWisePNCount)
 router.get('/stateWiseSample',userController.stateWiseSample)
 router.get('/vaccineData',userController.vaccineData)
 router.get('/vaccineData',userController.vaccineWiseData)
+router.get('/StateAndGenderWise',userController.StateAndGenderWise)
 
 
 export default router
