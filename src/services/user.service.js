@@ -10,3 +10,9 @@ export const covidData = async () => {
   console.log("data",data);
   return data;
 };
+
+export const stateWise=async()=>{
+   //statewise data
+   const data=await stateWiseTestingDetails.aggregate([{$match:{State:"Andaman and Nicobar Islands"}}])
+  return data;
+}
