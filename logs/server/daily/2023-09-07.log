@@ -1,0 +1,995 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:25:10.264Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:25:10.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:26:14.376Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:26:14.393Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:26:46.113Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:26:46.132Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:28:47.226Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:28:47.251Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:29:09.924Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:29:09.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:30:47.218Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:30:47.239Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:32:40.860Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:32:40.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:33:21.028Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:33:21.083Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:34:23.062Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:34:23.079Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:34:32.910Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:34:32.956Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:35:20.545Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:35:20.572Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:35:28.585Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:35:28.666Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:36:00.907Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:36:00.931Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:39:42.618Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:39:42.641Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:39:55.959Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:39:55.980Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:40:53.763Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:40:53.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:42:05.826Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:42:05.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:42:44.658Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:42:44.720Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:48:08.088Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:48:08.108Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T06:48:40.586Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T06:48:40.618Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:03:15.013Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:03:15.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:08:49.205Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:08:49.249Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:09:02.139Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:09:02.157Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:09:14.435Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:09:14.482Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:10:50.499Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:10:50.523Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:11:44.673Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:11:44.699Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:12:10.668Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:12:10.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:12:23.378Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:12:23.418Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:12:35.439Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:12:35.494Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:12:43.112Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:12:43.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:13:16.502Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:13:16.555Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:13:40.414Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:13:40.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:17:36.854Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:17:36.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:20:36.605Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:20:36.627Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:21:08.656Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:21:08.720Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:21:09.576Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:21:09.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:22:17.652Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:22:17.675Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:18.386Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:18.398Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:20.209Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:20.211Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:21.479Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:21.483Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:22:37.913Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:22:37.938Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:39.331Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:39.338Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:41.084Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:41.086Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:23:12.296Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:23:12.316Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:23:54.445Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:23:54.464Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:24:44.844Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:24:44.862Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:25:24.243Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:25:24.287Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:27:58.003Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:27:58.066Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:40:14.987Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:40:15.020Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:40:49.916Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:40:49.932Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:41:23.631Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:41:23.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:41:46.161Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:41:46.186Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:41:55.168Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:41:55.187Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:43:40.745Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:43:40.768Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:47:57.814Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:47:57.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:48:46.371Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:48:46.408Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:49:13.718Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:49:13.736Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:49:45.389Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:49:45.407Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:50:36.838Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:50:36.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:50:52.539Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:50:52.571Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:51:34.435Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:51:34.452Z"}
+error: 
+      status - 40234
+      message - The field '$group' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:51:37.142Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:51:37.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:51:56.496Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:51:56.521Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:52:13.353Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:52:13.374Z"}
+error: 
+      status - 40234
+      message - The field '$group' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:52:17.042Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:52:17.056Z"}
+error: 
+      status - 40234
+      message - The field '$group' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:52:18.745Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:52:18.750Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:53:00.319Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:53:00.338Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:53:21.688Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:53:21.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:54:30.366Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:54:30.389Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:54:38.555Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:54:38.579Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:54:43.480Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:54:43.501Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T07:59:18.670Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T07:59:18.743Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:00:16.270Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:00:16.311Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:01:27.614Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:01:27.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:01:42.902Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:01:42.929Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:02:42.240Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:02:42.263Z"}
+error: 
+    status - 500 
+    message - Error: Arguments must be aggregate pipeline operators
+    at Aggregate.append (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\aggregate.js:143:11)
+    at new Aggregate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\aggregate.js:57:17)
+    at Function.aggregate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:4236:21)
+    at _callee7$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:141:40)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:109:23)
+    at _callee2$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:25:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:23:23)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T08:02:43.138Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:03:02.761Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:03:02.787Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:05:50.343Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:05:50.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T08:06:46.422Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T08:06:46.451Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:08:10.736Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:08:10.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:08:31.739Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:08:31.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:08:40.113Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:08:40.136Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:08:43.063Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:08:43.082Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:09:01.779Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:09:01.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:10:47.929Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:10:47.952Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:12:30.907Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:12:30.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:13:51.865Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:13:51.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:14:09.050Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:14:09.077Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:19:38.756Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:19:38.785Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:20:01.314Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:20:01.351Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:20:19.205Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:20:19.229Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:21:19.734Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:21:19.765Z"}
+error: 
+      status - 40234
+      message - The field 'Covaxin' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:21:20.843Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:21:20.852Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:21:37.212Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:21:37.238Z"}
+error: 
+      status - 40234
+      message - The field 'Covaxin' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:21:39.488Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:21:39.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:22:04.144Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:22:04.165Z"}
+error: 
+      status - 40234
+      message - The field '$sum' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:22:04.522Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:22:04.535Z"}
+error: 
+      status - 40234
+      message - The field '$sum' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:22:05.939Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:22:05.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:22:30.875Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:22:30.896Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:23:07.743Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:23:07.764Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:23:42.351Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:23:42.372Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:24:47.792Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:24:47.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:25:36.121Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:25:36.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:26:09.240Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:26:09.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:26:26.868Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:26:26.887Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:26:44.601Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:26:44.647Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:27:55.621Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:27:55.638Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:28:01.835Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:28:01.895Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:28:33.173Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:28:33.195Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:29:25.682Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:29:25.727Z"}
+error: 
+      status - 15952
+      message - unknown group operator '$Sum' 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:29:25.941Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 15952
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:29:25.957Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:29:35.013Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:29:35.038Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:30:57.282Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:30:57.302Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:31:09.606Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:31:09.625Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:33:19.746Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:33:19.772Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:34:07.244Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:34:07.268Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:34:46.814Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:34:46.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:34:54.300Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:34:54.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:36:19.501Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:36:19.523Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:36:37.695Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:36:37.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:38:00.481Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:38:00.518Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:38:39.418Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:38:39.467Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:39:59.888Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:39:59.910Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:40:37.681Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:40:37.698Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:41:51.962Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:41:51.988Z"}
+error: 
+      status - 15974
+      message - Illegal key in $sort specification: Sessions: "$Sessions" 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:41:52.795Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 15974
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:41:52.810Z"}
+error: 
+      status - 15974
+      message - Illegal key in $sort specification: Sessions: "$Sessions" 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:41:54.469Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 15974
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:41:54.472Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:42:17.248Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:42:17.282Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:43:29.581Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:43:29.628Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:43:51.774Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:43:51.794Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:45:26.343Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:45:26.364Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:48:43.024Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:48:43.060Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:49:04.990Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:49:05.022Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:49:14.991Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:49:15.011Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:58:19.387Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:58:19.409Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T09:59:24.412Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T09:59:24.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:01:50.422Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:01:50.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:02:43.193Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:02:43.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:02:58.798Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:02:58.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:08:02.746Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:08:02.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:08:09.570Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:08:09.617Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:13:12.150Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:13:12.172Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:13:40.373Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:13:40.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:15:01.891Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:15:01.923Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:15:06.191Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:15:06.210Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:16:10.498Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:16:10.519Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:17:27.736Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:17:27.760Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:17:52.497Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:17:52.518Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:18:01.429Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:18:01.455Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:18:27.850Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:18:27.871Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:18:36.903Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:18:36.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:18:50.618Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:18:50.636Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:19:39.190Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:19:39.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:20:28.344Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:20:28.391Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:20:57.696Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:20:57.721Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:21:48.594Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:21:48.618Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:30:35.848Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:30:35.872Z"}
+error: 
+    status - 500 
+    message - TypeError: _covidVaccineStatewise.default.aggregate(...).find is not a function
+    at _callee7$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:194:4)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:109:23)
+    at _callee2$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:25:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:23:23)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T10:30:38.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:30:51.256Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:30:51.290Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:40:40.153Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:40:40.206Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:41:00.434Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:41:00.502Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:41:13.270Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:41:13.295Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'find')
+    at _callee7$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:128)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:109:23)
+    at _callee2$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:25:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:23:23)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T10:41:17.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:41:29.076Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:41:29.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:42:05.545Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:42:05.595Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:43:02.793Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:43:02.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:51:25.630Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:51:25.652Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:52:00.002Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:52:00.043Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:52:37.727Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:52:37.760Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:52:52.082Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:52:52.142Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:53:33.616Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:53:33.636Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T10:55:13.279Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T10:55:13.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T11:26:44.419Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T11:26:44.439Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:09:58.449Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:09:58.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:11:27.503Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:11:27.552Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:12:08.637Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:12:08.663Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:12:14.859Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:12:14.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:12:56.617Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:12:56.666Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:13:20.670Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:13:20.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:13:37.961Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:13:38.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-07T12:13:51.726Z"}
+info: Connected to the database. {"timestamp":"2023-09-07T12:13:51.767Z"}

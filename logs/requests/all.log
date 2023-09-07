@@ -1,0 +1,336 @@
+info: ::1 - - [18/Aug/2023:13:18:01 +0000] "POST /api/v1 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:13:18:29 +0000] "POST /api/v1/%20 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:13:18:46 +0000] "POST /api/v1/users HTTP/1.1" 201 222 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:13:21:14 +0000] "POST /api/v1/users HTTP/1.1" 201 559 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:13:22:34 +0000] "POST /api/v1/users HTTP/1.1" 201 555 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:14:19:52 +0000] "POST /api/v1/users/cources HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:14:21:35 +0000] "POST /api/v1/cources HTTP/1.1" 500 74 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:14:22:20 +0000] "POST /api/v1/cources HTTP/1.1" 201 242 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:14:23:28 +0000] "POST /api/v1/cources HTTP/1.1" 201 241 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:14:23:48 +0000] "POST /api/v1/cources HTTP/1.1" 201 244 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:05:35 +0000] "GET /api/v1/users HTTP/1.1" 500 88 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:07:17 +0000] "GET /api/v1/users HTTP/1.1" 200 1064 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:24:15 +0000] "GET /api/v1/users HTTP/1.1" 200 566 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:25:18 +0000] "GET /api/v1/users HTTP/1.1" 200 170 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:26:25 +0000] "GET /api/v1/users HTTP/1.1" 200 122 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:34:01 +0000] "GET /api/v1/users HTTP/1.1" 200 1320 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:37:59 +0000] "GET /api/v1/users HTTP/1.1" 200 232 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:39:36 +0000] "GET /api/v1/users HTTP/1.1" 200 148 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:40:59 +0000] "GET /api/v1/users HTTP/1.1" 200 69 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:41:42 +0000] "GET /api/v1/users HTTP/1.1" 500 86 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:43:05 +0000] "GET /api/v1/users HTTP/1.1" 200 589 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:44:32 +0000] "GET /api/v1/users HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:46:12 +0000] "GET /api/v1/users HTTP/1.1" 200 93 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:46:47 +0000] "GET /api/v1/users HTTP/1.1" 200 648 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:56:51 +0000] "GET /api/v1/users HTTP/1.1" 200 648 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:15:59:50 +0000] "GET /api/v1/users HTTP/1.1" 200 93 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [18/Aug/2023:16:00:00 +0000] "GET /api/v1/users HTTP/1.1" 200 648 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:26:03 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 65 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:28:50 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:31:02 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:32:43 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:32:47 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:32:49 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:32:50 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:32:51 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:32:52 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:33:23 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 65 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:33:26 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 65 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:34:24 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:35:30 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:35:32 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:00 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:01 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:02 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:13 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:14 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:16 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:17 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:41:18 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:42:46 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:43:51 +0000] "GET /api/v1/covid/covidDat HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:43:56 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:48:13 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1926966 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:06:48:44 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1926966 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:09:15 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:10:51 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 62240 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:11:47 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 76 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:12:35 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 78 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:12:44 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 76 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:20:41 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:21:09 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:22:18 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:22:20 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:22:21 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:22:39 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:22:41 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:23:17 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1188 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:23:58 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1188 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:24:00 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1188 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:25:06 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 75 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:25:09 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 75 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:25:27 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1188 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:27:31 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1381 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:40:16 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 2077 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:41:24 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 3085 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:47:59 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:48:46 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:48:48 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:49:14 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:49:46 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 22586 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:50:52 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 22586 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:51:37 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:52:17 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:52:18 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:53:01 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 92 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:53:21 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 92 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:54:31 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 82 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:07:59:23 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1200466 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:08:01:44 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:08:02:43 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 81 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:08:05:51 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 40616 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:08:06:47 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 142 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:13:54 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:13:57 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:14:11 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 4623733 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:19:44 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:20:01 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 75 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:20:20 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:21:20 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:21:39 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:22:04 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:22:05 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:22:33 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1658 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:23:08 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1658 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:23:42 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1658 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:24:55 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1658 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:25:41 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1288 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:26:12 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1288 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:26:45 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1288 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:28:37 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:29:25 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:30:58 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:31:43 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:33:22 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:33:24 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:34:08 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1214 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:34:55 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 3085 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:36:23 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:36:25 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:36:38 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1473 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:38:01 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1724 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:38:39 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1288 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:39:18 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1290 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:39:19 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1290 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:39:21 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1290 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:40:01 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1290 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:40:38 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1539 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:41:52 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:41:54 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:42:17 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1539 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:43:34 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1584 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:43:52 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1695 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:45:27 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1695 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:48:44 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1695 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:49:18 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1695 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:58:24 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 2141 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:09:59:26 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 2360 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:02:46 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 163 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:16:17 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1602 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:17:36 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1602 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:18:02 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 2360 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:19:45 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1602 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:20:30 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1883 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:20:59 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 2160 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:21:49 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 2900 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:30:38 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 500 103 "-" "PostmanRuntime/7.29.2"
+
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:109
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:10:44 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20922},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20095915,"external":30666072,"heapTotal":83718144,"heapUsed":60494480,"rss":118272000},"pid":10644,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:109\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","trace":[{"column":109,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:109
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:10:44 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20922},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20104107,"external":30674264,"heapTotal":83718144,"heapUsed":60588376,"rss":118296576},"pid":10644,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:109\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","trace":[{"column":109,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+info: ::1 - - [07/Sep/2023:10:40:44 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:11:17 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20955},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20092408,"external":30662134,"heapTotal":83976192,"heapUsed":60358608,"rss":118743040},"pid":19944,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:11:17 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20955},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20100600,"external":30670326,"heapTotal":83976192,"heapUsed":60452488,"rss":118771712},"pid":19944,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at _stateWiseTestingDetails.default.mapReduce.out (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:12:09 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":21007},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20084350,"external":30662350,"heapTotal":83976192,"heapUsed":60201880,"rss":118697984},"pid":21592,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at _stateWiseTestingDetails.default.mapReduce.out (C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115)\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":"_stateWiseTestingDetails.default.mapReduce.out","line":198,"method":"out","native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at _stateWiseTestingDetails.default.mapReduce.out (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:12:09 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":21007},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20092542,"external":30670542,"heapTotal":83976192,"heapUsed":60297152,"rss":118722560},"pid":21592,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at _stateWiseTestingDetails.default.mapReduce.out (C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115)\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":"_stateWiseTestingDetails.default.mapReduce.out","line":198,"method":"out","native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+info: ::1 - - [07/Sep/2023:10:42:09 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 43 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:51:29 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1913 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:52:02 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1633 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:52:39 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 249 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:10:52:52 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 1913 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [07/Sep/2023:12:12:26 +0000] "GET /api/v1/covid/covidData HTTP/1.1" 200 3085 "-" "PostmanRuntime/7.29.2"
+

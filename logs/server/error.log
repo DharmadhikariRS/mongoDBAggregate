@@ -1,0 +1,815 @@
+error: 
+    status - 500 
+    message - TypeError: UserService.newCource is not a function
+    at _callee4$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:62:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newCource (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:60:23)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/cources 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-08-18T14:21:35.323Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.aggregate(...).pretty is not a function
+    at _callee$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:8:6)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:10:25)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-08-18T15:05:35.579Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.aggregate(...).save is not a function
+    at _callee$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:51:6)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAllUsers (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAllUsers (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:10:25)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-08-18T15:41:42.813Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:21:09.576Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:21:09.597Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:18.386Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:18.398Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:20.209Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:20.211Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:21.479Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:21.483Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:39.331Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:39.338Z"}
+error: 
+      status - 40234
+      message - The field 'State' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:22:41.084Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:22:41.086Z"}
+error: 
+      status - 40234
+      message - The field '$group' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:51:37.142Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:51:37.155Z"}
+error: 
+      status - 40234
+      message - The field '$group' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:52:17.042Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:52:17.056Z"}
+error: 
+      status - 40234
+      message - The field '$group' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T07:52:18.745Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T07:52:18.750Z"}
+error: 
+    status - 500 
+    message - Error: Arguments must be aggregate pipeline operators
+    at Aggregate.append (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\aggregate.js:143:11)
+    at new Aggregate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\aggregate.js:57:17)
+    at Function.aggregate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:4236:21)
+    at _callee7$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:141:40)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:109:23)
+    at _callee2$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:25:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:23:23)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T08:02:43.138Z"}
+error: 
+      status - 40234
+      message - The field 'Covaxin' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:21:20.843Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:21:20.852Z"}
+error: 
+      status - 40234
+      message - The field 'Covaxin' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:21:39.488Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:21:39.495Z"}
+error: 
+      status - 40234
+      message - The field '$sum' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:22:04.522Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:22:04.535Z"}
+error: 
+      status - 40234
+      message - The field '$sum' must be an accumulator object 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:22:05.939Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 40234
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:22:05.941Z"}
+error: 
+      status - 15952
+      message - unknown group operator '$Sum' 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:29:25.941Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 15952
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:29:25.957Z"}
+error: 
+      status - 15974
+      message - Illegal key in $sort specification: Sessions: "$Sessions" 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:41:52.795Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 15974
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:41:52.810Z"}
+error: 
+      status - 15974
+      message - Illegal key in $sort specification: Sessions: "$Sessions" 
+      url - /api/v1/covid/covidData 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-09-07T09:41:54.469Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 15974
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T09:41:54.472Z"}
+error: 
+    status - 500 
+    message - TypeError: _covidVaccineStatewise.default.aggregate(...).find is not a function
+    at _callee7$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:194:4)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:109:23)
+    at _callee2$ (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:25:36)
+    at tryCatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:128:22)
+    at Generator.next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at covidData (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\controllers\/user.controller.js:23:23)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:532:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/covid/covidData 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-07T10:30:38.691Z"}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:109
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:10:44 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20922},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20087699,"external":30657816,"heapTotal":83718144,"heapUsed":60447888,"rss":117444608},"pid":10644,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:109\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2023-09-07T10:40:44.423Z","trace":[{"column":109,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:109
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:10:44 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20922},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20095915,"external":30666072,"heapTotal":83718144,"heapUsed":60554456,"rss":118284288},"pid":10644,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:109\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2023-09-07T10:40:44.441Z","trace":[{"column":109,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:11:17 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20955},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20084192,"external":30653878,"heapTotal":83976192,"heapUsed":60312016,"rss":117981184},"pid":19944,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2023-09-07T10:41:17.384Z","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:11:17 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":20955},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20092408,"external":30662134,"heapTotal":83976192,"heapUsed":60418568,"rss":118755328},"pid":19944,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2023-09-07T10:41:17.402Z","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":null,"line":198,"method":null,"native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at _stateWiseTestingDetails.default.mapReduce.out (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:12:09 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":21007},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20076134,"external":30654094,"heapTotal":83976192,"heapUsed":60154552,"rss":117800960},"pid":21592,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at _stateWiseTestingDetails.default.mapReduce.out (C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115)\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2023-09-07T10:42:09.135Z","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":"_stateWiseTestingDetails.default.mapReduce.out","line":198,"method":"out","native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: Array.sum is not a function
+TypeError: Array.sum is not a function
+    at _stateWiseTestingDetails.default.mapReduce.out (C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\src\services\/user.service.js:198:115)
+    at C:\Users\Shree\Desktop\MEAN BL\mongoDBAggregate\aggregation\node_modules\mongoose\lib\model.js:5082:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Sep 07 2023 16:12:09 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":21007},"process":{"argv":["node","C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\index.js"],"cwd":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":20084350,"external":30662350,"heapTotal":83976192,"heapUsed":60262520,"rss":118710272},"pid":21592,"uid":null,"version":"v16.14.0"},"stack":"TypeError: Array.sum is not a function\n    at _stateWiseTestingDetails.default.mapReduce.out (C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js:198:115)\n    at C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js:5082:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2023-09-07T10:42:09.156Z","trace":[{"column":115,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\src\\services\\/user.service.js","function":"_stateWiseTestingDetails.default.mapReduce.out","line":198,"method":"out","native":false},{"column":18,"file":"C:\\Users\\Shree\\Desktop\\MEAN BL\\mongoDBAggregate\\aggregation\\node_modules\\mongoose\\lib\\model.js","function":null,"line":5082,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
