@@ -34,5 +34,19 @@ export const stateWise = async (req, res, next) => {
     next(error);
   }
 };
+stateWiseTestingCount
+
+export const stateWiseTestingCount = async (req, res, next) => {
+  try {
+    const data = await UserService.stateWiseTestingCount();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'stateWise Testing Count Data fetched'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
 
 

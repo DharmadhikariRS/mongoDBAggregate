@@ -16,3 +16,9 @@ export const stateWise=async()=>{
    const data=await stateWiseTestingDetails.aggregate([{$match:{State:"Andaman and Nicobar Islands"}}])
   return data;
 }
+
+export const stateWiseTestingCount=async()=>{
+// statewise testing count
+  const data=await stateWiseTestingDetails.aggregate([{$match:{State:"Andaman and Nicobar Islands"}},{ $count : 'total_documents'}])
+  return data;
+}

@@ -5,5 +5,7 @@ const router=express.Router()
 
 router.get('/covidData',userController.covidData)
 router.get('/stateWise',userController.stateWise)
+router.get('/stateWiseTestingCount',userController.stateWiseTestingCount)
+
 
 export default router
