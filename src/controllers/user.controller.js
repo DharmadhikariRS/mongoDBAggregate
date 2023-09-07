@@ -114,5 +114,17 @@ export const StateAndGenderWise = async (req, res, next) => {
 };
 
 
+export const StatewisePositiveCountGT = async (req, res, next) => {
+  try {
+    const data = await UserService.StatewisePositiveCountGT();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'positive count greater than value data'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
 
 

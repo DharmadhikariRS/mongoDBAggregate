@@ -103,3 +103,22 @@ export const StateAndGenderWise=async()=>{
 ]);
 return data;
 }
+export const StatewisePositiveCountGT=async()=>{
+//states of covid positive members greater that 1lakh
+ const data=stateWiseTestingDetails.aggregate([{
+    $group: {
+      _id: "$State",
+      TotalSamples:{
+        $sum: "$TotalSamples"
+      },
+      Positive: {
+        $sum: "$Positive"
+      }
+    }
+  },
+  {$match : {Positive :
+
+    { $gt : 100000}
+}}])
+  return data;
+}
