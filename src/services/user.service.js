@@ -41,3 +41,23 @@ export const stateWisePNCount=async()=>{
   }])
   return data;
 }
+
+export const stateWiseSample=async()=>{
+  //Total samples tasted on perticular date in perticular state
+  const data = stateWiseTestingDetails.aggregate([
+    { $match: { State: 'Andaman and Nicobar Islands' } },
+    { $match: { Date: '2021-02-23' } },
+    {
+      $group: {
+        _id: {
+          State: '$State',
+          Date: '$Date'
+        },
+        TotalSamples: {
+          $sum: '$TotalSamples'
+        }
+      }
+    }
+  ]);
+  return data;
+}

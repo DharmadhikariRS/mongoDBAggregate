@@ -61,5 +61,18 @@ export const stateWisePNCount = async (req, res, next) => {
   }
 };
 
+export const stateWiseSample = async (req, res, next) => {
+  try {
+    const data = await UserService.stateWiseSample();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'stateWise Testing sample  count Data fetched'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
 
 

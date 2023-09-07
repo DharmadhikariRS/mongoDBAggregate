@@ -7,6 +7,7 @@ router.get('/covidData',userController.covidData)
 router.get('/stateWise',userController.stateWise)
 router.get('/stateWiseTestingCount',userController.stateWiseTestingCount)
 router.get('/stateWisePNCount',userController.stateWisePNCount)
+router.get('/stateWiseSample',userController.stateWiseSample)
 
 
 export default router
