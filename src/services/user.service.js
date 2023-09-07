@@ -22,3 +22,22 @@ export const stateWiseTestingCount=async()=>{
   const data=await stateWiseTestingDetails.aggregate([{$match:{State:"Andaman and Nicobar Islands"}},{ $count : 'total_documents'}])
   return data;
 }
+
+export const stateWisePNCount=async()=>{
+ //statewise positive people count
+  const data=stateWiseTestingDetails.aggregate([{
+    $group: {
+      _id: "$State",
+      TotalSamples:{
+        $sum: "$TotalSamples"
+      },
+      Positive: {
+        $sum: "$Positive"
+      }
+    , Negative: {
+      $sum: "$Negative"
+    }
+    }
+  }])
+  return data;
+}

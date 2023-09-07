@@ -48,5 +48,18 @@ export const stateWiseTestingCount = async (req, res, next) => {
     next(error);
   }
 };
+export const stateWisePNCount = async (req, res, next) => {
+  try {
+    const data = await UserService.stateWisePNCount();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'stateWise Positive negative Count Data fetched'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
 
 
